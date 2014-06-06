@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "85F3A99F193CFBBE00559310"
+               BlueprintIdentifier = "855C7D6719410C9C0061BDB0"
                BuildableName = "QuickCam.app"
-               BlueprintName = "PictureShare"
+               BlueprintName = "QuickCam"
                ReferencedContainer = "container:PictureShare.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,33 +28,13 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "85F3A9C0193CFBBE00559310"
-               BuildableName = "PictureShareTests.xctest"
-               BlueprintName = "PictureShareTests"
-               ReferencedContainer = "container:PictureShare.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "855C7D8319410C9C0061BDB0"
-               BuildableName = "QuickCamTests.xctest"
-               BlueprintName = "QuickCamTests"
-               ReferencedContainer = "container:PictureShare.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "85F3A99F193CFBBE00559310"
+            BlueprintIdentifier = "855C7D6719410C9C0061BDB0"
             BuildableName = "QuickCam.app"
-            BlueprintName = "PictureShare"
+            BlueprintName = "QuickCam"
             ReferencedContainer = "container:PictureShare.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -71,9 +51,9 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "85F3A99F193CFBBE00559310"
+            BlueprintIdentifier = "855C7D6719410C9C0061BDB0"
             BuildableName = "QuickCam.app"
-            BlueprintName = "PictureShare"
+            BlueprintName = "QuickCam"
             ReferencedContainer = "container:PictureShare.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -89,9 +69,9 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "85F3A99F193CFBBE00559310"
+            BlueprintIdentifier = "855C7D6719410C9C0061BDB0"
             BuildableName = "QuickCam.app"
-            BlueprintName = "PictureShare"
+            BlueprintName = "QuickCam"
             ReferencedContainer = "container:PictureShare.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
